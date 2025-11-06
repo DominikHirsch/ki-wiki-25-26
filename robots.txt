@@ -1,1 +1,1 @@
-Sitemap: https://dominikhirsch.github.io/ki-wiki-25-26/jekyll-wiki-template/sitemap.xml
+Sitemap: https://dominikhirsch.github.io/ki-wiki-25-26/ki-wiki-25-26/sitemap.xml
