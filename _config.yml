@@ -1,6 +1,6 @@
 title: "ki-wiki"
 description: "Ein Minimalbeispiel mit Minimal Mistakes"
-baseurl: "/jekyll-wiki-template" # the subpath of your site, e.g. /blog/
+baseurl: "/ki-wiki-25-26" # the subpath of your site, e.g. /blog/
 url: "https://DominikHirsch.github.io/ki-wiki-25-26"
 
 theme: minimal-mistakes-jekyll
