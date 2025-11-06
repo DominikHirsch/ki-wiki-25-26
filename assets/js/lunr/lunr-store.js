@@ -22,4 +22,10 @@ var store = [{
         "tags": [],
         "url": "/jekyll-wiki-template/seite2/sub2/",
         "teaser": null
+      },{
+        "title": "Soziologische Perspektive",
+        "excerpt":"Test Überschrift  ","categories": [],
+        "tags": [],
+        "url": "/jekyll-wiki-template/Soziologische_Perspektive/",
+        "teaser": null
       },]
