@@ -24,7 +24,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Soziologische Perspektive",
-        "excerpt":"Test Überschrift   ","categories": [],
+        "excerpt":"uhhuhhu   ","categories": [],
         "tags": [],
         "url": "/ki-wiki-25-26/Soziologische_Perspektive/",
         "teaser": null
