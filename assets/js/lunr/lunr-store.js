@@ -11,6 +11,12 @@ var store = [{
         "url": "/ki-wiki-25-26/seite2/sub2/",
         "teaser": null
       },{
+        "title": "KI Heute",
+        "excerpt":"Künstliche Intelligenz Heute      Definition und Überblick   Anwendungsbereiche  ","categories": [],
+        "tags": [],
+        "url": "/ki-wiki-25-26/ki-heute/",
+        "teaser": null
+      },{
         "title": "Seite 1",
         "excerpt":"Dies ist Seite 1 im Wiki. Seite 1 hat keine weiteren Unterseiten.   ","categories": [],
         "tags": [],
