@@ -1,8 +1,8 @@
 docs_sidebar:
   - title: "Startseite"
     url: /
-  - title: "Seite 1"
-    url: /seite1/
+  - title: "ki-geschichte"
+    url: /ki-geschichte/
   - title: "Seite 2"
     url: /seite2/
     children:
@@ -12,3 +12,13 @@ docs_sidebar:
         url: /seite2/sub2/
   - title: "Soziologische Perspektive"
     url: /Soziologische_Perspektive/
+  - title: "ki-heute"
+    url: /ki-heute/
+  - title: "rechtlicher-rahmen"
+    url: /rechtlicher-rahmen/
+  - title: "anwendung-schule"
+    url: /anwendung-schule/
+  - title: "psychologische-perspektiven"
+    url: /psychologische-perspektiven/
+  - title: "philosophische-reflexion"
+    url: /philosophische-reflexion/
