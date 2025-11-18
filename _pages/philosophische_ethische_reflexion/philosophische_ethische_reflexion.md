@@ -1,4 +1,4 @@
 ---
 title: "Philosophische-reflexion"
-permalink: /Philosophische-reflexion/
+permalink: /philosophische-reflexion/
 ---
