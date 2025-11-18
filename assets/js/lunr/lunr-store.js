@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Philosophische-reflexion",
-        "excerpt":"uhhuuuug  ","categories": [],
+        "excerpt":"uhhuu  ","categories": [],
         "tags": [],
         "url": "/ki-wiki-25-26/philosophische-reflexion/",
         "teaser": null
