@@ -160,15 +160,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Seite 1">
-    <meta itemprop="description" content="Dies ist Seite 1 im Wiki.Seite 1 hat keine weiteren Unterseiten.">
+    <meta itemprop="headline" content="Technologien">
+    <meta itemprop="description" content="Funktionsprinzipien heutiger KI">
     <meta itemprop="datePublished" content="2025-11-19T10:04:30+00:00">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Seite 1
+          <h1 id="page-title" class="page__title" itemprop="headline">Technologien
 </h1>
           
 
@@ -181,14 +181,61 @@
           <aside class="sidebar__right sticky">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Inhalt</h4></header>
-              
+              <ul class="toc__menu"><li><a href="#funktionsprinzipien-heutiger-ki">Funktionsprinzipien heutiger KI</a><ul><li><a href="#maschinelles-lernen">Maschinelles Lernen</a></li><li><a href="#neuronale-netze">Neuronale Netze</a></li><li><a href="#trainingsprozess-und-optimierung">Trainingsprozess und Optimierung</a></li><li><a href="#inferenz">Inferenz</a></li></ul></li></ul>
 
             </nav>
           </aside>
         
-        <p>Dies ist Seite 1 im Wiki.
-Seite 1 hat keine weiteren Unterseiten.</p>
+        <h2 id="funktionsprinzipien-heutiger-ki">Funktionsprinzipien heutiger KI</h2>
 
+<h3 id="maschinelles-lernen">Maschinelles Lernen</h3>
+
+<p><strong>Maschinelles Lernen (Machine Learning, ML)</strong> ist ein zentraler Bestandteil der KI und bezeichnet Algorithmen, die aus Daten lernen, ohne explizit programmiert zu werden. Es gibt drei Hauptansätze:</p>
+
+<ul>
+  <li><strong>Überwachtes Lernen (Supervised Learning):</strong> Das Modell wird mit einem <strong>Datensatz</strong> trainiert, der aus Eingabedaten und den dazugehörigen Ausgabedaten besteht. Ziel ist es, eine Funktion zu lernen, die Eingaben korrekt auf Ausgaben abbildet.</li>
+  <li><strong>Unüberwachtes Lernen (Unsupervised Learning):</strong> Das Modell erhält nur Eingabedaten und muss selbstständig Muster oder Strukturen erkennen, z. B. durch <strong>Clustering</strong>.</li>
+  <li><strong>Bestärkendes Lernen (Reinforcement Learning):</strong> Das Modell lernt durch Belohnungen und Bestrafungen. Es führt Aktionen aus und erhält Feedback, das es nutzt, um seine Strategie zu optimieren.</li>
+</ul>
+
+<p><strong>Datensatz:</strong> Eine Sammlung von Daten, die zum Trainieren eines Modells verwendet wird. Ein Datensatz kann strukturiert (z. B. Tabellen) oder unstrukturiert (z. B. Texte, Bilder) sein. Datensätze sind die Grundlage für das Training von KI-Modellen und bestimmen maßgeblich deren Leistung und Genauigkeit.</p>
+
+<p><strong>Clustering:</strong> Ein Verfahren des unüberwachten Lernens, bei dem ähnliche Datenpunkte zu Gruppen (Clustern) zusammengefasst werden, um Muster zu erkennen. Clustering wird häufig in der <strong>Marktsegmentierung</strong>, <strong>Bildverarbeitung</strong> und <strong>Anomalieerkennung</strong> eingesetzt, um Strukturen in Daten zu identifizieren, die nicht offensichtlich sind.</p>
+
+<hr />
+
+<h3 id="neuronale-netze">Neuronale Netze</h3>
+
+<p><strong>Neuronale Netze</strong> sind Computermodelle, die von der Struktur des menschlichen Gehirns inspiriert sind. Sie bestehen aus künstlichen Neuronen, die in Schichten organisiert sind:</p>
+
+<ul>
+  <li><strong>Eingabeschicht (Input Layer):</strong> Erhält die Rohdaten, z. B. Pixelwerte eines Bildes oder Wörter eines Textes. Diese Schicht ist für die Aufnahme und Vorverarbeitung der Eingabedaten verantwortlich.</li>
+  <li><strong>Verborgene Schichten (Hidden Layers):</strong> Verarbeiten die Daten durch Gewichtung und Transformation. Jedes Neuron in einer Schicht ist mit den Neuronen der vorherigen Schicht verbunden. Die Anzahl und Komplexität der versteckten Schichten bestimmen die Fähigkeit des Netzes, komplexe Muster zu erkennen.</li>
+  <li><strong>Ausgabeschicht (Output Layer):</strong> Gibt das Endergebnis aus, z. B. eine Klassifizierung oder Vorhersage. Diese Schicht bestimmt die finale Ausgabe des neuronalen Netzes, wie z. B. die Klassifizierung eines Bildes oder die Generierung eines Textes.</li>
+</ul>
+
+<p><strong>Hidden State:</strong> Ein zentrales Konzept in <strong>rekurrenten neuronalen Netzen (RNNs)</strong>. Der Hidden State speichert Informationen über vorherige Eingaben und gibt sie an die nächste Verarbeitungseinheit weiter. Dadurch kann das Netz sequenzielle Daten (z. B. Texte) verarbeiten und Kontext über die Zeit hinweg bewahren. Der Hidden State ermöglicht es RNNs, Abhängigkeiten zwischen zeitlich entfernten Eingaben zu erkennen.</p>
+
+<p><strong>Deep-Learning-Modelle:</strong> Neuronale Netze mit vielen verborgenen Schichten, die komplexe Muster in großen Datenmengen erkennen können. Deep-Learning-Modelle sind besonders leistungsfähig, benötigen aber auch mehr Rechenleistung und Daten. Sie werden in einer Vielzahl von Anwendungen eingesetzt, von der <strong>Bild- und Spracherkennung</strong> bis hin zur <strong>autonomen Steuerung</strong> von Fahrzeugen.</p>
+
+<hr />
+
+<h3 id="trainingsprozess-und-optimierung">Trainingsprozess und Optimierung</h3>
+
+<p>Beim <strong>Training</strong> eines KI-Modells wird es mit Daten gefüttert, um seine internen Parameter (Gewichte) so anzupassen, dass es die gewünschten Ausgaben produziert. Ein zentrales Verfahren hierfür ist <strong>Gradient Descent</strong>:</p>
+
+<ul>
+  <li><strong>Gradient Descent:</strong> Ein iterativer Algorithmus, der die Gewichte des Modells schrittweise anpasst, um den <strong>Fehler</strong> (die Differenz zwischen vorhergesagter und tatsächlicher Ausgabe) zu minimieren. Der Gradient gibt die Richtung des steilsten Anstiegs der Fehlerfunktion an, und der Algorithmus bewegt sich in die entgegengesetzte Richtung, um den Fehler zu reduzieren.</li>
+  <li><strong>Backpropagation:</strong> Ein Verfahren, das den Fehler rückwärts durch das Netz propagiert, um die Gewichte effizient anzupassen. Es berechnet den Gradient für jedes Gewicht im Netz und passt es entsprechend an. Backpropagation ist ein zentraler Bestandteil des Trainings neuronaler Netze und ermöglicht das effiziente Lernen aus Fehlern.</li>
+</ul>
+
+<p><strong>Fehler:</strong> Ein Maß dafür, wie stark die Vorhersage des Modells von der tatsächlichen Ausgabe abweicht. Ziel des Trainings ist es, diesen Fehler zu minimieren. Der Fehler wird oft durch <strong>Verlustfunktionen</strong> (Loss Functions) quantifiziert, die die Abweichung zwischen der vorhergesagten und der tatsächlichen Ausgabe messen.</p>
+
+<hr />
+
+<h3 id="inferenz">Inferenz</h3>
+
+<p>Die <strong>Inferenz</strong> ist der Prozess, bei dem ein trainiertes Modell auf neue, unbekannte Daten angewendet wird, um Vorhersagen oder Entscheidungen zu treffen. Im Gegensatz zum Training, das rechenintensiv ist, ist die Inferenz oft schneller und wird in Echtzeit-Anwendungen eingesetzt. Inferenz ist der Schritt, in dem das Modell sein gelerntes Wissen anwendet, um nützliche Ergebnisse zu liefern, z. B. die Übersetzung eines Textes oder die Erkennung eines Objekts in einem Bild.</p>
 
         
       </section>
@@ -210,11 +257,11 @@ Seite 1 hat keine weiteren Unterseiten.</p>
       
   <nav class="pagination">
     
-      <a href="/ki-wiki-25-26/ki-heute/" class="pagination--pager" title="KI Heute
+      <a href="/ki-wiki-25-26/ki_heute/ki-systeme/" class="pagination--pager" title="Ki-Systeme
 ">Previous</a>
     
     
-      <a href="/ki-wiki-25-26/seite2/" class="pagination--pager" title="Seite 2
+      <a href="/ki-wiki-25-26/ki-heute/" class="pagination--pager" title="KI Heute
 ">Next</a>
     
   </nav>
