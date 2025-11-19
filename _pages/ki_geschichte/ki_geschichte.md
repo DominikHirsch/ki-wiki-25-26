@@ -1,6 +1,6 @@
 ---
 title: "ki-geschichte"
-permalink: /ki-geschichte/q
+permalink: /ki-geschichte/
 ---
 
 # Geschichte der Künstlichen Intelligenz
