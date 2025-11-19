@@ -79,6 +79,7 @@ Aristoteles’ *Nikomachische Ethik* (Buch II) definiert Tugenden als **disposit
 
 ---
 ### **3.2 KI als „Tugend-Trainer“? Möglichkeiten und Grenzen**
+
 | **Tugend**          | **KI-Potenzial**                          | **Grenzen der KI**                          |
 |---------------------|-------------------------------------------|---------------------------------------------|
 | **Neugier**         | Personalisierte Wissensangebote           | Kann keine echte **Wissbegierde** wecken    |
@@ -110,7 +111,8 @@ Aristoteles’ *Nikomachische Ethik* (Buch II) definiert Tugenden als **disposit
 - **Forderung:** KI muss **langfristige gesellschaftliche Effekte** berücksichtigen – nicht nur kurzfristige Lernerfolge.
 
 ---
-### **4.3 Utilitarismus in der Praxis: Wer profitiert wirklich?
+### **4.3 Utilitarismus in der Praxis: Wer profitiert wirklich?**
+
 | **Akteur**          | **Möglicher Nutzen**                          | **Mögliche Nachteile**                     | **Ethische Bewertung**                     |
 |---------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------|
 | **Lernende**        | Individuelle Förderung, schnellere Erfolge  | Überwachung, Stress, Verlust von Autonomie | Ambivalent – hängt von der Umsetzung ab    |
