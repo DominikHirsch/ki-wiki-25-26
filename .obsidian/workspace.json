@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28c0b9fd689b242b",
+            "id": "11fcf7cdab84a653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/page02_sub/sub0201.md",
+                "file": "_pages/rechtlicher_rahmen/rechtlicher_rahmen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sub0201"
+              "title": "rechtlicher_rahmen"
             }
           }
         ]
@@ -169,10 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "28c0b9fd689b242b",
+  "active": "11fcf7cdab84a653",
   "lastOpenFiles": [
-    "_pages/page02_sub/sub0202.md",
+    "_pages/rechtlicher_rahmen/rechtlicher_rahmen.md~",
     "_pages/page02_sub/sub0201.md",
+    "_pages/rechtlicher_rahmen/rechtlicher_rahmen.md",
+    "_pages/page02_sub/sub0202.md",
     "_pages/page01.md",
     "index.md"
   ]
