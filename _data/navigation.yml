@@ -5,6 +5,8 @@ docs_sidebar:
     url: /ki-geschichte/
   - title: "Prompt Engineering"
     url: /prompt_engineering/
+  - title: "psychologische_perspektiven"
+    url: /psychologische_perspektiven/
   - title: "Seite 2"
     url: /seite2/
     children:
