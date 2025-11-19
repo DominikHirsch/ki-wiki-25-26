@@ -113,10 +113,10 @@ Aristoteles’ *Nikomachische Ethik* (Buch II) definiert Tugenden als **disposit
 ### **4.3 Utilitarismus in der Praxis: Wer profitiert wirklich?
 | **Akteur**          | **Möglicher Nutzen**                          | **Mögliche Nachteile**                     | **Ethische Bewertung**                     |
 |---------------------|-----------------------------------------------|--------------------------------------------|--------------------------------------------|
-| **Lernende**        | Individuelle Förderung, schnellere Erfolge  | Überwachung, Stress, Verlust von Autonomie | **Ambivalent** – hängt von der Umsetzung ab |
-| **Lehrkräfte**      | Entlastung, mehr Zeit für Pädagogik          | Dequalifizierung, Kontrolle durch Algorithmen | **Positiv, wenn partizipativ gestaltet**  |
-| **Schulsystem**     | Kostensenkung, höhere Abschlussquoten        | Standardisierung, Verlust von Vielfalt      | **Kritisch** – Risiko der Zweckentfremdung  |
-| **Tech-Unternehmen**| Profit durch Daten, Marktmacht               | Ethische Verantwortungsdiffusion           | **Problematisch** – Konflikt mit Bildungszielen |
+| **Lernende**        | Individuelle Förderung, schnellere Erfolge  | Überwachung, Stress, Verlust von Autonomie | Ambivalent – hängt von der Umsetzung ab    |
+| **Lehrkräfte**      | Entlastung, mehr Zeit für Pädagogik          | Dequalifizierung, Kontrolle durch Algorithmen | Positiv, wenn partizipativ gestaltet  |
+| **Schulsystem**     | Kostensenkung, höhere Abschlussquoten        | Standardisierung, Verlust von Vielfalt      | Kritisch – Risiko der Zweckentfremdung    |
+| **Tech-Unternehmen**| Profit durch Daten, Marktmacht               | Ethische Verantwortungsdiffusion           | Problematisch – Konflikt mit Bildungszielen |
 
 ---
 ## **5. Synthese: Ein pluriperspektivischer ethischer Rahmen für KI in der Bildung**
