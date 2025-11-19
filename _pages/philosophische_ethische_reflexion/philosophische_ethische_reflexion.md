@@ -4,8 +4,6 @@ permalink: /philosophische-reflexion/
 ---
 # Künstliche Intelligenz in der Bildung: Eine vertiefte ethisch-philosophische Analyse
 
-*Von Mel Durbi, Redakteur für Bildung und Ethik, in Zusammenarbeit mit Dr. Jonas Weber, Ethiklehrer und Philosoph*
-
 ---
 
 ## Einleitung: Warum die Ethik der KI-Bildung mehr ist als eine technische Debatte
