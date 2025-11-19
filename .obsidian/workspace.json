@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_pages/page02_sub/sub0201.md",
+                "file": "_pages/prompt_engineering/prompt_engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sub0201"
+              "title": "prompt_engineering"
             }
           }
         ]
@@ -169,10 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "28c0b9fd689b242b",
+  "active": "01ba8dcef2720865",
   "lastOpenFiles": [
-    "_pages/page02_sub/sub0202.md",
+    "_pages/philosophische_ethische_reflexion/philosophische_ethische_reflexion.md",
+    "_pages/philosophische_ethische_reflexion",
+    "_pages/ki_heute/ki_heute.md",
+    "_pages/ki_heute",
+    "_pages/ki_geschichte/ki_geschichte.md",
+    "_pages/ki_geschichte",
+    "_pages/ki-heute/technologien.md.md",
+    "_pages/ki-heute/ki-systeme.md.md",
+    "_pages/ki-heute/Künstliche Intelligenz heute.md",
+    "_pages/ki-heute/Final artikel gegliedert.md",
+    "_pages/ki-heute",
+    "_pages/ki-geschichte/sub0202.md",
+    "_pages/ki-geschichte/sub0201.md",
+    "_pages/ki-geschichte",
     "_pages/page02_sub/sub0201.md",
+    "_pages/page02_sub/sub0202.md",
     "_pages/page01.md",
     "index.md"
   ]

@@ -3,6 +3,8 @@ docs_sidebar:
     url: /
   - title: "ki-geschichte"
     url: /ki-geschichte/
+  - title: "Prompt Engineering"
+    url: /prompt_engineering/
   - title: "Seite 2"
     url: /seite2/
     children:
