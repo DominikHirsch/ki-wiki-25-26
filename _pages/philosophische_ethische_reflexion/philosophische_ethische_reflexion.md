@@ -154,7 +154,7 @@ Die ethische Bewertung von KI in der Bildung erfordert einen **pluriperspektivis
 ---
 ### **6.3 Provokante These zur Diskussion**
 *„Wenn KI in 20 Jahren die meisten Lehrkräfte ersetzt hat, wird das weniger ein technologisches als ein politisches Versagen sein – nämlich das Versagen, Bildung als öffentlichen Raum der Begegnung und des Streitens zu verteidigen.“*
-— **Mel Durbi & Jonas Weber (2025)**
+
 
 ---
 ### **Diskussionsfragen für Leser:innen**
