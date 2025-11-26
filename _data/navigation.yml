@@ -5,8 +5,6 @@ docs_sidebar:
     url: /ki-geschichte/
   - title: "Prompt Engineering"
     url: /prompt_engineering/
-  - title: "psychologische_perspektiven"
-    url: /psychologische_perspektiven/
   - title: "Seite 2"
     url: /seite2/
     children:
@@ -23,7 +21,7 @@ docs_sidebar:
   - title: "anwendung-schule"
     url: /anwendung-schule/
   - title: "psychologische-perspektiven"
-    url: /psychologische-perspektiven/
+    url: /psychologische_perspektiven/
   - title: "Philosophische-reflexion"
     url: /philosophische-reflexion/
 
