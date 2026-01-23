@@ -24,6 +24,10 @@ Aktuelle KI-Systeme umfassen **Sprachmodelle** (wie RNNs, LSTMs und LLMs), die T
 
 
 ## Quellen und weiterführende Literatur
+*Hinweis: Dieser Artikel sowie die Literaturangaben wurde vollständig von Mistral AI generiert.*
+
+Mistral AI. (2025). Künstliche Intelligenz heute: Aktuelle Systeme, Funktionsprinzipien und Anwendungsfelder (Version 1.0, November 2025). Generiert mit Le Chat von Mistral AI am 17. November 2025. https://mistral.ai
+
 
 ### Bücher
 
