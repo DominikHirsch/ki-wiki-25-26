@@ -1,6 +1,6 @@
 ---
 title: Technologien
-permalink: /ki_heute/technologien
+permalink: /ki-heute/technologien/
 ---
 ## Funktionsprinzipien heutiger KI
 

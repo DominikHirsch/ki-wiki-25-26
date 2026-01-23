@@ -1,6 +1,6 @@
 ---
-title: Ki-Systeme
-permalink: /ki_heute/ki-systeme/
+title: KI-Systeme
+permalink: /ki-heute/ki-systeme/
 ---
 ## Aktuelle Maschinen und Systeme
 [
@@ -9,14 +9,14 @@ permalink: /ki_heute/ki-systeme/
 Sprachmodelle sind KI-Systeme, die natürliche Sprache verstehen, generieren und verarbeiten. Sie basieren auf verschiedenen Technologien:
 
 #### **RNN (Recurrent Neural Networks)**
-**RNNs (Rekurrente Neuronale Netze)** sind eine Klasse neuronaler Netze, die speziell für die Verarbeitung sequenzieller Daten wie Texte oder Zeitreihen entwickelt wurden. Im Gegensatz zu herkömmlichen neuronalen Netzen haben RNNs eine **Rückkopplungsschleife**, die es ihnen ermöglicht, Informationen über vorherige Eingaben zu speichern. Dies geschieht durch den **Hidden State**, der als eine Art „Gedächtnis“ fungiert und den Kontext über die Zeit hinweg bewahrt. RNNs sind besonders nützlich für Aufgaben wie **Sprachmodellierung**, **Maschinelle Übersetzung** und **Zeitreihenanalyse**.
+**RNNs (Rekurrente neuronale Netze)** sind eine Klasse neuronaler Netze, die speziell für die Verarbeitung sequenzieller Daten wie Texte oder Zeitreihen entwickelt wurden. Im Gegensatz zu herkömmlichen neuronalen Netzen haben RNNs eine **Rückkopplungsschleife**, die es ihnen ermöglicht, Informationen über vorherige Eingaben zu speichern. Dies geschieht durch den **Hidden State**, der als eine Art „Gedächtnis“ fungiert und den Kontext über die Zeit hinweg bewahrt. RNNs sind besonders nützlich für Aufgaben wie **Sprachmodellierung**, **maschinelle Übersetzung** und **Zeitreihenanalyse**.
 
 Allerdings leiden RNNs unter dem **Vanishing-Gradient-Problem**: Wenn die Sequenzen lang werden, können die Gradienten (die für das Lernen entscheidend sind) so klein werden, dass das Netz kaum noch lernt. Trotz dieser Einschränkungen waren RNNs ein wichtiger Meilenstein in der Entwicklung moderner Sprachmodelle und haben den Weg für komplexere Architekturen wie LSTMs und Transformers geebnet.
 
 #### **LSTM (Long Short-Term Memory)**
 **LSTMs (Long Short-Term Memory)** sind eine Weiterentwicklung von RNNs, die das Vanishing-Gradient-Problem teilweise lösen. Sie führen **Gates** ein – spezielle Mechanismen, die steuern, welche Informationen gespeichert, vergessen oder ausgegeben werden. Diese Gates umfassen das **Eingabegate**, das **Vergessensgate** und das **Ausgabegate**, die gemeinsam den Informationsfluss regulieren. Das Eingabegate entscheidet, welche neuen Informationen in den Hidden State aufgenommen werden, das Vergessensgate bestimmt, welche Informationen verworfen werden, und das Ausgabegate steuert, welche Informationen an die nächste Schicht weitergegeben werden.
 
-LSTMs sind in der Lage, langfristige Abhängigkeiten in Daten zu erkennen, was sie ideal für komplexe sequenzielle Aufgaben macht. Sie werden häufig in **Spracherkennung**, **Maschineller Übersetzung** und **Textgenerierung** eingesetzt. Obwohl LSTMs rechenintensiver sind als einfache RNNs, bieten sie eine deutlich bessere Leistung bei der Verarbeitung langer Sequenzen und haben die Entwicklung moderner Sprachmodelle maßgeblich vorangetrieben.
+LSTMs sind in der Lage, langfristige Abhängigkeiten in Daten zu erkennen, was sie ideal für komplexe sequenzielle Aufgaben macht. Sie werden häufig in **Spracherkennung**, **maschineller Übersetzung** und **Textgenerierung** eingesetzt. Obwohl LSTMs rechenintensiver sind als einfache RNNs, bieten sie eine deutlich bessere Leistung bei der Verarbeitung langer Sequenzen und haben die Entwicklung moderner Sprachmodelle maßgeblich vorangetrieben.
 
 #### **LLM (Large Language Models)**
 **LLMs (Large Language Models)** sind hochmoderne Sprachmodelle, die auf der **Transformer-Architektur** basieren. Transformers nutzen **Selbstaufmerksamkeit (Self-Attention)**, um die Beziehungen zwischen allen Wörtern in einem Satz gleichzeitig zu analysieren. Self-Attention ermöglicht es dem Modell, den Kontext jedes Wortes in Bezug auf alle anderen Wörter im Satz zu verstehen, was zu einer besseren Erfassung von Bedeutung und Nuancen führt. Diese Architektur hat die Fähigkeit von Sprachmodellen, komplexe Sprachmuster zu erkennen und hochwertige Texte zu generieren, revolutioniert.
