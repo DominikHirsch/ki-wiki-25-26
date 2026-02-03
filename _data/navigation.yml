@@ -1,19 +1,10 @@
 docs_sidebar:
   - title: "Startseite"
     url: /
-  - title: "ki-geschichte"
-    url: /ki-geschichte/
   - title: "Prompt Engineering"
     url: /prompt_engineering/
-  - title: "Seite 2"
-    url: /seite2/
-    children:
-      - title: "Unterseite 1"
-        url: /seite2/sub1/
-      - title: "Unterseite 2"
-        url: /seite2/sub2/
-  - title: "Soziologische Perspektive"
-    url: /Soziologische_Perspektive/
+  - title: "ki-geschichte"
+    url: /ki-geschichte/
   - title: "Künstliche Intelligenz heute"
     url: /ki-heute/
     children:
@@ -29,5 +20,7 @@ docs_sidebar:
     url: /anwendung-schule/
   - title: "psychologische_perspektiven"
     url: /psychologische_perspektiven/
+  - title: "Soziologische Perspektive"
+    url: /Soziologische_Perspektive/
   - title: "Philosophische-reflexion"
     url: /philosophische-reflexion/
