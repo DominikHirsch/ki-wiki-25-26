@@ -15,7 +15,14 @@ docs_sidebar:
   - title: "Soziologische Perspektive"
     url: /Soziologische_Perspektive/
   - title: "Künstliche Intelligenz heute"
-    url: /ki_heute_complete/
+    url: /ki-heute/
+    children:
+      - title: "Anwendungen von KI"
+        url: /ki-heute/anwendungen/
+      - title: "Technologien"
+        url: /ki-heute/technologien/
+      - title: "KI-Systeme"
+        url: /ki-heute/ki-systeme/
   - title: "rechtlicher-rahmen"
     url: /rechtlicher-rahmen/
   - title: "anwendung-schule"
@@ -24,4 +31,3 @@ docs_sidebar:
     url: /psychologische_perspektiven/
   - title: "Philosophische-reflexion"
     url: /philosophische-reflexion/
-

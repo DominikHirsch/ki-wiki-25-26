@@ -1,6 +1,6 @@
 ---
 title: Künstliche Intelligenz heute
-permalink: /ki_heute/
+permalink: /ki-heute/
 ---
 # KI-heute: Ein umfassender Überblick über moderne künstliche Intelligenz
 
@@ -12,18 +12,22 @@ Künstliche Intelligenz (KI) ist eine der transformativsten Technologien unserer
 
 ---
 
-##  [Anwendungsbereiche von KI heute](anwendungsbereiche.md)
-Künstliche Intelligenz revolutioniert [Bereiche](anwendungsbereiche.md) wie **Medizin**, **Wissenschaft**, **Industrie** und **Unterhaltung** – sie optimiert Diagnostik, Forschung, Produktion und personalisierte Dienstleistungen. Durch KI-gestützte Analysen, Automatisierung und Vorhersagemodelle steigert sie Effizienz, Genauigkeit und Innovation in fast allen Lebensbereichen.
+##  [Anwendungsbereiche von KI heute](/ki-heute/anwendungen)
+Künstliche Intelligenz revolutioniert Bereiche wie **Medizin**, **Wissenschaft**, **Industrie** und **Unterhaltung** – sie optimiert Diagnostik, Forschung, Produktion und personalisierte Dienstleistungen. Durch KI-gestützte Analysen, Automatisierung und Vorhersagemodelle steigert sie Effizienz, Genauigkeit und Innovation in fast allen Lebensbereichen.
 
-## [Wie Funktrioniert Ki](technologien.md)
-Heutige KI basiert auf  [Technologien](technologien.md) wie **maschinellem Lernen** und **neuronalen Netzen**, die aus Eingabe-, versteckten und Ausgabeschichten bestehen und durch Verfahren wie **Gradient Descent** und **Backpropagation** trainiert werden. Nach dem Training nutzt die KI **Inferenz**, um aus neuen Daten Vorhersagen zu treffen – etwa Texte zu generieren, Bilder zu klassifizieren oder Entscheidungen in Echtzeit zu unterstützen.
+## [Wie Funktrioniert Ki](/ki-heute/technologien)
+Heutige KI basiert auf Technologien wie **maschinellem Lernen** und **neuronalen Netzen**, die aus Eingabe-, versteckten und Ausgabeschichten bestehen und durch Verfahren wie **Gradient Descent** und **Backpropagation** trainiert werden. Nach dem Training nutzt die KI **Inferenz**, um aus neuen Daten Vorhersagen zu treffen – etwa Texte zu generieren, Bilder zu klassifizieren oder Entscheidungen in Echtzeit zu unterstützen.
 
-## [aktuelle Systeme](sub_ki-systeme.md)
-Aktuelle [KI-Systeme](sub_ki-systeme.md) umfassen **Sprachmodelle** (wie RNNs, LSTMs und LLMs), die Texte verstehen und generieren, sowie **Bildgeneratoren** (z. B. GANs und Diffusionsmodelle), die realistische Bilder aus Textbeschreibungen erstellen. **Empfehlungssysteme** nutzen kollaborative, content-basierte oder hybride Ansätze, um personalisierte Vorschläge zu machen, während **Analysetools** (klassische ML- und Deep-Learning-Modelle) große Datenmengen auswerten und Echtzeit-Erkenntnisse liefern. **Autonome Systeme** wie Computer Vision, Reinforcement Learning und Edge Computing ermöglichen selbstständige Maschinen in Robotik, autonomem Fahren und IoT-Anwendungen.
+## [aktuelle Systeme](/ki-heute/ki-systeme/)
+Aktuelle KI-Systeme umfassen **Sprachmodelle** (wie RNNs, LSTMs und LLMs), die Texte verstehen und generieren, sowie **Bildgeneratoren** (z. B. GANs und Diffusionsmodelle), die realistische Bilder aus Textbeschreibungen erstellen. **Empfehlungssysteme** nutzen kollaborative, content-basierte oder hybride Ansätze, um personalisierte Vorschläge zu machen, während **Analysetools** (klassische ML- und Deep-Learning-Modelle) große Datenmengen auswerten und Echtzeit-Erkenntnisse liefern. **Autonome Systeme** wie Computer Vision, Reinforcement Learning und Edge Computing ermöglichen selbstständige Maschinen in Robotik, autonomem Fahren und IoT-Anwendungen.
 
 
 
 ## Quellen und weiterführende Literatur
+*Hinweis: Dieser Artikel sowie die Literaturangaben wurde vollständig von Mistral AI generiert.*
+
+Mistral AI. (2025). Künstliche Intelligenz heute: Aktuelle Systeme, Funktionsprinzipien und Anwendungsfelder (Version 1.0, November 2025). Generiert mit Le Chat von Mistral AI am 17. November 2025. https://mistral.ai
+
 
 ### Bücher
 
