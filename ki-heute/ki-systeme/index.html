@@ -127,9 +127,29 @@
             </li>
             
             <li>
-                <a href="/ki-wiki-25-26/ki_heute_complete/">
+                <a href="/ki-wiki-25-26/ki-heute/">
                     <span class="nav__sub-title">Künstliche Intelligenz heute</span>
                 </a>
+                
+                <ul>
+    
+    <li>
+        <a href="/ki-wiki-25-26/ki-heute/anwendungen/">Anwendungen von KI</a>
+        
+    </li>
+    
+    <li>
+        <a href="/ki-wiki-25-26/ki-heute/technologien/">Technologien</a>
+        
+    </li>
+    
+    <li>
+        <a href="/ki-wiki-25-26/ki-heute/ki-systeme/">KI-Systeme</a>
+        
+    </li>
+    
+</ul>
+
                 
             </li>
             
@@ -167,15 +187,15 @@
 
 
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Ki-Systeme">
+    <meta itemprop="headline" content="KI-Systeme">
     <meta itemprop="description" content="Aktuelle Maschinen und Systeme[Sprachmodelle">
-    <meta itemprop="datePublished" content="2025-11-26T10:10:28+00:00">
+    <meta itemprop="datePublished" content="2026-02-03T15:23:22+00:00">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 id="page-title" class="page__title" itemprop="headline">Ki-Systeme
+          <h1 id="page-title" class="page__title" itemprop="headline">KI-Systeme
 </h1>
           
 
@@ -200,14 +220,14 @@
 <p>Sprachmodelle sind KI-Systeme, die natürliche Sprache verstehen, generieren und verarbeiten. Sie basieren auf verschiedenen Technologien:</p>
 
 <h4 id="rnn-recurrent-neural-networks"><strong>RNN (Recurrent Neural Networks)</strong></h4>
-<p><strong>RNNs (Rekurrente Neuronale Netze)</strong> sind eine Klasse neuronaler Netze, die speziell für die Verarbeitung sequenzieller Daten wie Texte oder Zeitreihen entwickelt wurden. Im Gegensatz zu herkömmlichen neuronalen Netzen haben RNNs eine <strong>Rückkopplungsschleife</strong>, die es ihnen ermöglicht, Informationen über vorherige Eingaben zu speichern. Dies geschieht durch den <strong>Hidden State</strong>, der als eine Art „Gedächtnis“ fungiert und den Kontext über die Zeit hinweg bewahrt. RNNs sind besonders nützlich für Aufgaben wie <strong>Sprachmodellierung</strong>, <strong>Maschinelle Übersetzung</strong> und <strong>Zeitreihenanalyse</strong>.</p>
+<p><strong>RNNs (Rekurrente neuronale Netze)</strong> sind eine Klasse neuronaler Netze, die speziell für die Verarbeitung sequenzieller Daten wie Texte oder Zeitreihen entwickelt wurden. Im Gegensatz zu herkömmlichen neuronalen Netzen haben RNNs eine <strong>Rückkopplungsschleife</strong>, die es ihnen ermöglicht, Informationen über vorherige Eingaben zu speichern. Dies geschieht durch den <strong>Hidden State</strong>, der als eine Art „Gedächtnis“ fungiert und den Kontext über die Zeit hinweg bewahrt. RNNs sind besonders nützlich für Aufgaben wie <strong>Sprachmodellierung</strong>, <strong>maschinelle Übersetzung</strong> und <strong>Zeitreihenanalyse</strong>.</p>
 
 <p>Allerdings leiden RNNs unter dem <strong>Vanishing-Gradient-Problem</strong>: Wenn die Sequenzen lang werden, können die Gradienten (die für das Lernen entscheidend sind) so klein werden, dass das Netz kaum noch lernt. Trotz dieser Einschränkungen waren RNNs ein wichtiger Meilenstein in der Entwicklung moderner Sprachmodelle und haben den Weg für komplexere Architekturen wie LSTMs und Transformers geebnet.</p>
 
 <h4 id="lstm-long-short-term-memory"><strong>LSTM (Long Short-Term Memory)</strong></h4>
 <p><strong>LSTMs (Long Short-Term Memory)</strong> sind eine Weiterentwicklung von RNNs, die das Vanishing-Gradient-Problem teilweise lösen. Sie führen <strong>Gates</strong> ein – spezielle Mechanismen, die steuern, welche Informationen gespeichert, vergessen oder ausgegeben werden. Diese Gates umfassen das <strong>Eingabegate</strong>, das <strong>Vergessensgate</strong> und das <strong>Ausgabegate</strong>, die gemeinsam den Informationsfluss regulieren. Das Eingabegate entscheidet, welche neuen Informationen in den Hidden State aufgenommen werden, das Vergessensgate bestimmt, welche Informationen verworfen werden, und das Ausgabegate steuert, welche Informationen an die nächste Schicht weitergegeben werden.</p>
 
-<p>LSTMs sind in der Lage, langfristige Abhängigkeiten in Daten zu erkennen, was sie ideal für komplexe sequenzielle Aufgaben macht. Sie werden häufig in <strong>Spracherkennung</strong>, <strong>Maschineller Übersetzung</strong> und <strong>Textgenerierung</strong> eingesetzt. Obwohl LSTMs rechenintensiver sind als einfache RNNs, bieten sie eine deutlich bessere Leistung bei der Verarbeitung langer Sequenzen und haben die Entwicklung moderner Sprachmodelle maßgeblich vorangetrieben.</p>
+<p>LSTMs sind in der Lage, langfristige Abhängigkeiten in Daten zu erkennen, was sie ideal für komplexe sequenzielle Aufgaben macht. Sie werden häufig in <strong>Spracherkennung</strong>, <strong>maschineller Übersetzung</strong> und <strong>Textgenerierung</strong> eingesetzt. Obwohl LSTMs rechenintensiver sind als einfache RNNs, bieten sie eine deutlich bessere Leistung bei der Verarbeitung langer Sequenzen und haben die Entwicklung moderner Sprachmodelle maßgeblich vorangetrieben.</p>
 
 <h4 id="llm-large-language-models"><strong>LLM (Large Language Models)</strong></h4>
 <p><strong>LLMs (Large Language Models)</strong> sind hochmoderne Sprachmodelle, die auf der <strong>Transformer-Architektur</strong> basieren. Transformers nutzen <strong>Selbstaufmerksamkeit (Self-Attention)</strong>, um die Beziehungen zwischen allen Wörtern in einem Satz gleichzeitig zu analysieren. Self-Attention ermöglicht es dem Modell, den Kontext jedes Wortes in Bezug auf alle anderen Wörter im Satz zu verstehen, was zu einer besseren Erfassung von Bedeutung und Nuancen führt. Diese Architektur hat die Fähigkeit von Sprachmodellen, komplexe Sprachmuster zu erkennen und hochwertige Texte zu generieren, revolutioniert.</p>
@@ -516,7 +536,7 @@
 
         
 
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2025-11-26T10:10:28+00:00">November 26, 2025</time></p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time datetime="2026-02-03T15:23:22+00:00">February 3, 2026</time></p>
 
 
       </footer>
@@ -526,11 +546,11 @@
       
   <nav class="pagination">
     
-      <a href="/ki-wiki-25-26/ki_heute_complete/" class="pagination--pager" title="Künstliche Intelligenz heute
+      <a href="/ki-wiki-25-26/ki-heute/" class="pagination--pager" title="Künstliche Intelligenz heute
 ">Previous</a>
     
     
-      <a href="/ki-wiki-25-26/ki_heute/technologien" class="pagination--pager" title="Technologien
+      <a href="/ki-wiki-25-26/ki-heute/technologien/" class="pagination--pager" title="Technologien
 ">Next</a>
     
   </nav>
@@ -576,7 +596,7 @@
   </ul>
 </div>
 
-<div class="page__footer-copyright">&copy; 2025 ki-wiki. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
+<div class="page__footer-copyright">&copy; 2026 ki-wiki. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
 
       </footer>
     </div>
